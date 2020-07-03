@@ -1,3 +1,4 @@
 name: BetterChat
 version: 0.0.1
 main: fr.foxyz.betterchat.BetterChat
+api-version: '1.13'
