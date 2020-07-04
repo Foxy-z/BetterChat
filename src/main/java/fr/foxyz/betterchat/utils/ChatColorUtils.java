@@ -16,6 +16,7 @@ public class ChatColorUtils {
             ChatColor.UNDERLINE,
             ChatColor.STRIKETHROUGH,
             ChatColor.ITALIC,
+            ChatColor.MAGIC,
             ChatColor.BOLD,
             ChatColor.RESET,
     };
